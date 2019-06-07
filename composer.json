@@ -11,6 +11,6 @@
         "docs": "https://51degrees.com/Developers/Documentation/APIs/PHP-Ext-V32"
     },
     "require": {
-        "php": "^5.3 || ^7.0",
+        "php": "^5.3 || ^7.0"
     }
 }
